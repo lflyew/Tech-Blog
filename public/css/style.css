@@ -1,3 +1,27 @@
+:root {
+    --primary: #b5c3ba;
+    --secondary: #8b9e99;
+    --tertiary: #5f6d6d;
+    --light-dark: #5f5553;
+    --dark: #2e2725;
+    --border-radius: 0.3rem;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: var(--primary);
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica", sans-serif;
+    color: var(--dark);
+    line-height: 1.5;
+    font-size: 16px;
+  }
+
+
 a {
     text-decoration: none;
   }
