@@ -27,7 +27,7 @@ a {
   }
 
   /* CARDS */
-.card {
+/* .card {
     margin: 0 0 20px 0;
     border: 3px solid var(--dark);
     border-radius: var(--border-radius);
@@ -42,15 +42,15 @@ a {
   
   .card-body {
     padding: 1%;
-  }
+  } */
   
-  .card-body2 {
+  /* .card-body2 {
     padding: 3%;
     color: var(--primary);
     background-color: var(--dark);
     font-size: 1rem;
     margin: 10px;
-  } */
+  } */ */
 
   :root {
     --primary: #ccdad1;
